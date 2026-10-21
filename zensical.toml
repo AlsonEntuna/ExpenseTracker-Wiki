@@ -11,7 +11,10 @@ copyright = "Copyright &copy; 2026 Alson Entuna"
 # edit_uri = "edit/main/docs/"
 
 nav = [
-  { "Home" = "index.md" }
+  { "Expense Tracker" = "index.md" },
+  { "Installation & Update" = "installation.md" },
+  { "Home" = "home.md" },
+  { "Expense" = "expense.md" }
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -20,7 +23,7 @@ nav = [
 [project.theme]
 # variant = "classic"
 # custom_dir = "overrides"
-# favicon = "images/favicon.png"
+favicon = "assets/images/expense_tracker_app_icon.png"
 language = "en"
 features = [
   "announce.dismiss",
@@ -51,7 +54,7 @@ features = [
   # "toc.integrate",
 ]
 
-# logo = "assets/logo.png"
+logo = "assets/images/expense_tracker_app_icon.png"
 
 # [project.theme.icon]
 # logo = "lucide/smile"
