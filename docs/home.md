@@ -8,10 +8,7 @@ Gives you a little bit of an insight on how much you are spending per **Category
 
 ![Expense Tracker][home-view]
 
-## How to Install
-
-Simply go to the [release page](https://github.com/AlsonEntuna/ExpenseTracker/releases/)
-and run the `ExpenseTracker_Installer.exe`. Make sure to install it to the
-directory you want.
+!!! note
+    More features will be added soon in the Home view of the application
 
   [home-view]: assets/images/home_view.png

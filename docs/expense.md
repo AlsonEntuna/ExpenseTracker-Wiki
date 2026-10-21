@@ -2,8 +2,7 @@
 icon: lucide/wallet
 ---
 
-# Expense View
-
+# Expense
 ![Expense View][expense-view]
 
 ## Creating your first Variable Expense

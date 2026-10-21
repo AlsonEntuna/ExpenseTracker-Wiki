@@ -5,7 +5,7 @@ icon: lucide/app-window
 # About the Expense Tracker
 
 Expense Tracker is a simple application that manages your expenses/bills.
-![Expense Tracker][banner]
+![Expense Tracker][expense-tracker-app]
 
 ## Support
 
@@ -15,4 +15,4 @@ Expense Tracker is a simple application that manages your expenses/bills.
     [GitHub](https://github.com/AlsonEntuna/ExpenseTracker) or by email at
     <alson.entuna@outlook.com>.
 
-  [banner]: assets/images/home_view.png
+  [expense-tracker-app]: assets/images/expense_tracker_app_view.png

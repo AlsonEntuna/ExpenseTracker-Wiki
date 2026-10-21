@@ -7,7 +7,7 @@ icon: lucide/cloud-download
 ## How to Install
 
 Simply go to the [release page](https://github.com/AlsonEntuna/ExpenseTracker/releases/)
-and run the `ExpenseTracker_Installer.exe`. Make sure to install it to the
+and run the `ExpenseTrackerSetup.exe`. Make sure to install it to the
 directory you want.
 
 ![Installer][install]
@@ -20,5 +20,8 @@ Once done, you can now run the Expense Tracker App.
 Updating is simple, just open the application and it will get the latest release from the repository.
 If you want to update, simply just press update then it'll begin the update process.
 
+![Update-Notif][update-notif]
+
   [install]: assets/images/install.png
   [install-done]: assets/images/install_done.png
+  [update-notif]: assets/images/update_notif.png
