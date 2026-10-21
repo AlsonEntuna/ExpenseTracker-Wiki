@@ -76,10 +76,10 @@ Pie chart of the breakdown
     payment progress, just simply click `Open`.
 
   [expense-view]: assets/images/expense_view.png
-  [create-expense]: assets/images/create-expense.png
+  [create-expense]: assets/images/create_expense.png
   [add-expense]: assets/images/adding_expense.png
-  [entries]: assets/images/entries.png
-  [generate]: assets/images/generate.png
-  [report-1]: assets/images/report-1.png
-  [report-2]: assets/images/report-2.png
-  [report-3]: assets/images/report-3.png
+  [entries]: assets/images/entries_grid.png
+  [generate]: assets/images/report_tools.png
+  [report-1]: assets/images/report_1.png
+  [report-2]: assets/images/report_2.png
+  [report-3]: assets/images/report_3.png

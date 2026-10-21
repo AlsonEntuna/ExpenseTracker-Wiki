@@ -21,4 +21,4 @@ Updating is simple, just open the application and it will get the latest release
 If you want to update, simply just press update then it'll begin the update process.
 
   [install]: assets/images/install.png
-  [install-done]: assets/images/install-done.png
+  [install-done]: assets/images/install_done.png
