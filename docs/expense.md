@@ -41,9 +41,19 @@ After clicking, it'll add an empty entry and you can now fill up the necessary i
     When selecting the currency which is NOT your Expense's currency, you should input the amount in the `Amount(Local)`
     and the tool will automatically convert it to your Expense's set currency.
 
+![Expense Item][expense-data]
+
 Now it's added in entries, you can edit/remove/add info anytime you want.
 
 ![Entries list][entries]
+
+Context menus are also available at your disposal
+![Context Menu][expense-context]
+
+- `Copy/Paste` - you can copy/paste the selected entry/entries to any opened Expense in the Expense View
+- `Remove` - deletes the entry, a warning will first ask you if you are sure that you want to delete it.
+![Remove Entry][expense-removeentry]
+- `Sort Entries` - sorts the entries in alphabetical order
 
 ## Saving
 Saving is as simple as `ctrl+s`. Also, the application saves all the current expenses opened in its session.
@@ -59,6 +69,8 @@ A window will pop up containing the generated reports.
 
 This will show a comprehensive report of your expenses. You can fill up
 `Partial Payments`, add `Comments`, and even mark it as `Paid`.
+
+The generated reports can also support partial payments, say you paid a part of it already, you can simply just click on `Add Payment`, if you paid the full amount already you can already tick the `Paid` checkbox.
 
 ![Generated report][report-1]
 
@@ -82,3 +94,6 @@ Pie chart of the breakdown
   [report-1]: assets/images/report_1.png
   [report-2]: assets/images/report_2.png
   [report-3]: assets/images/report_3.png
+  [expense-data]: assets/images/expense_data_conversion.png
+  [expense-context]: assets/images/expense_context_menu.png
+  [expense-removeentry]: assets/images/remove_entry.png

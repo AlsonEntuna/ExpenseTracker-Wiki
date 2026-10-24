@@ -4,7 +4,7 @@ site_name = "ExpenseTracker - Documentation"
 site_description = "ExpenseTracker by Alson Entuna Documentation"
 site_author = "Alson Entuna"
 
-copyright = "Copyright &copy; 2026 Alson Entuna"
+copyright = "Copyright &copy; 2026 Alson Entuna - Expense Tracker"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
@@ -14,7 +14,9 @@ nav = [
   { "Expense Tracker" = "index.md" },
   { "Installation & Update" = "installation.md" },
   { "Home" = "home.md" },
-  { "Expense" = "expense.md" }
+  { "Expense" = "expense.md" },
+  { "Savings" = "savings.md"},
+  { "Tools" = "tools.md"}
 ]
 
 # extra_css = ["stylesheets/extra.css"]
@@ -41,7 +43,7 @@ features = [
   "navigation.indexes",
   "navigation.instant",
   "navigation.instant.prefetch",
-  # "navigation.instant.progress",
+  "navigation.instant.progress",
   "navigation.path",
   # "navigation.prune",
   "navigation.sections",
